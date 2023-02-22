@@ -8,10 +8,15 @@ Simple Dropdown using Web Component.
 >&nbsp;
 > ### **Config**
 > **name:** is a text this anchor.
+> <br>
 > **type:** **1** is only Text, **2** is icons and text, **3** is only a Icon.
+> <br>
 > **icon:** url image.
+> <br>
 > **bg:** Background color.
+> <br>
 > **bgdrop:** Background color bubble dropdown.
+> <br>
 > **color:** text color.
 >&nbsp;
 
